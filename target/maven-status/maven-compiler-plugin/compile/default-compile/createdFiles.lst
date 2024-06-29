@@ -1,0 +1,10 @@
+com\ipn\mx\AlumnosApplication.class
+com\ipn\mx\service\UsuarioServiceImpl.class
+com\ipn\mx\service\EmailService.class
+com\ipn\mx\service\EmailServiceImpl.class
+com\ipn\mx\domain\repository\UsuarioRepository.class
+com\ipn\mx\AlumnosApplication$1.class
+com\ipn\mx\integration\UsuarioController.class
+com\ipn\mx\domain\entity\Usuario$UsuarioBuilder.class
+com\ipn\mx\domain\entity\Usuario.class
+com\ipn\mx\service\UsuarioService.class
